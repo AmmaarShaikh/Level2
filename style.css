@@ -1,0 +1,21 @@
+#head{
+    font: bold larger;
+    text-decoration: underline;
+    display: flex;
+    justify-content: center;
+}
+
+#navbar{
+    background-color: rgb(132, 161, 216);
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    color: black;
+    gap: 1in;
+}
+
+#frontphoto{
+    display: flex;
+    justify-content: center;
+
+}
